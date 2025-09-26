@@ -1,0 +1,5 @@
+/selda
+/selda/tutorial
+/selda/tutorial/ch1-example-explained
+/selda/tutorial/ch2-destructive-operations
+/selda/tutorial/ch3-advanced-queries
